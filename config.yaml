@@ -1,58 +1,83 @@
 languageCode: "en"
-baseUrl: "https://elibroftw.github.io/"
-title: "ELL Blog"
+baseUrl: ""
+title: "Omar's blog"
 theme: "anubis"
+relativeUrl: true
 paginate: 10
 disqusShortname: ""
 googleAnalytics: ""
 enableRobotsTXT: true
+publishDir: docs
+contentDir: ["posts"]
 
 menu:
   main:
+  - identifier: homee
+    name: Home
+    title: Home
+    url: /
+    weight: 1
   - identifier: archive
     name: Archive
     title: Archive
     url: /posts/
     weight: 0
+  - identifier: tags
+    name: Tags
+    title: Tags
+    url: /tags/
+    weight: 0
+  - identifier: about
+    name: About
+    title: About
+    url: /about/
+    weight: 0
 
 params:
-  author: "Elijah Lopez"
-  email: elijahlopez@protonmail.com # used for microformats
-  avatar: "/images/me.png" # used for microformats
+  author: "Omar Hadi"
+  email: ohadi798@gmail.com  # used for microformats
+  # avatar: "/images/me.png" # used for microformats
   description: ""
   # Uncomment if you need this
-  # images:
-  #   - images/og-featured.png # relative path to "static" directory
-  # customCSS:
-  #   - css/my.css # relative path to "assets" directory (don't use main.css filename)
+  images:
+    - images          # path relative to "static" directory
+  customCSS:  # path relative to "assets" directory (don't use main.css filename)
+    - css/custom.css
   # customJS:
-  #   - js/main.js # relative path to "assets" directory
-  dateFormat: "2006-01-02"
+  #   - js/copy-button.js
+  dateFormat: "2006-Jan-02"
   paginationSinglePost: true
   style: dark-without-switcher
   readMore: false
-  disableSummary: false
+  disableSummary: true
   # utteranc.es support
-  utterancesRepo: ""  # mandatory
-  utterancesTheme: "" # optional
+  utterancesRepo: "omar-hadi1.github.io/blog/"  # mandatory
+  utterancesTheme: "github-dark" # optional
   utterancesIssue: "" # optional
   utterancesLabel: "" # optional
-  webmentions:
-    url: https://elibroftw.github.io/
-    login: hugo-theme-anubis
-    pingback: true
+  #webmentions:
+  #    url: https://omar-hadi1.github.io/blog/
+  #    login: hugo-theme-anubis
+  #    pingback: true
   social:
+  - id: rss
+    url: /index.xml
   - id: github
-    name: elibroftw
+    name: omar-hadi1
   - id: twitter
-    name: elibroftw
-  - id: youtube
-    name: UCIrKT6IOvPo_oT4zSUm6uhQ
+    name: ohadi69
+  - id: email
+    name: ohadi798@gmail.com
+  - id: instagram
+    name: omarhadi1
+
 #  - id: hugo
 #    url: "https://gohugo.io/"
 #    icon: "hugo"
 
 markup:
+  highlight:
+    style: rrt
   goldmark:
     renderer:
       unsafe: true # enable raw HTML in Markdown

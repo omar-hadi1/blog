@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Omar&#39;s blog</title>
-    <link>/</link>
-    <description>Omar&#39;s blog</description>
+    <title>github-pages on Omar&#39;s blog</title>
+    <link>/tags/github-pages/</link>
+    <description>Omar&#39;s blog (github-pages)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 May 2022 20:39:52 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 07 May 2022 17:57:32 -0400</lastBuildDate>
     
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>First Post</title>
-      <link>/posts/first-post/</link>
-      <pubDate>Sun, 08 May 2022 20:39:52 -0400</pubDate>
-      
-      <guid>/posts/first-post/</guid>
-      <description>&lt;p&gt;My name is Omar Hadi. Thank you Elijah Lopez and my brother Abdullah Hadi for helping me create this blog.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Hugo Guide</title>
@@ -186,38 +176,6 @@ We just need the video id.&lt;/p&gt;
 
 &lt;/code&gt;&lt;/pre&gt;&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/elibroftw/1a94149a2f6232d062b666c4ee9ea530.js&#34;&gt;&lt;/script&gt;
 
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Subpage</title>
-      <link>/about/subpage/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/about/subpage/</guid>
-      <description>&lt;p&gt;Just a subpage of About.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ELL Blog</title>
-    <link>https://elibroftw.github.io/posts/</link>
-    <description>ELL Blog (Posts)</description>
+    <title>Posts on Omar&#39;s blog</title>
+    <link>/posts/</link>
+    <description>Omar&#39;s blog (Posts)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Dec 2021 00:16:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 08 May 2022 20:39:52 -0400</lastBuildDate>
     
-    <atom:link href="https://elibroftw.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>https://elibroftw.github.io/posts/first/</link>
-      <pubDate>Wed, 15 Dec 2021 00:16:00 -0500</pubDate>
+      <link>/posts/first-post/</link>
+      <pubDate>Sun, 08 May 2022 20:39:52 -0400</pubDate>
       
-      <guid>https://elibroftw.github.io/posts/first/</guid>
-      <description>&lt;p&gt;This post tests if Hugo with the anubis theme works.
-I&amp;rsquo;m thinking of self publishing articles rather than posting on Medium.
-Medium&amp;rsquo;s UI is slower than YouTube&amp;rsquo;s and its a website that&amp;rsquo;s text based!&lt;/p&gt;
+      <guid>/posts/first-post/</guid>
+      <description>&lt;p&gt;My name is Omar Hadi. Thank you Elijah Lopez and my brother Abdullah Hadi for helping me create this blog.&lt;/p&gt;
 </description>
     </item>
     

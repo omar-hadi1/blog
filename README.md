@@ -1,7 +1,5 @@
-# elibroftw.github.io
-A new blogging site, since Medium is slow. A comment section could be done on a platform like Twitter.
+# Omar's Blog
 
-<!-- https://gohugo.io/getting-started/quick-start/ -->
-<!-- https://retrolog.io/blog/creating-a-hugo-theme-from-scratch/ -->
-<!-- hugo -D builds site -->
-<!-- https://levelup.gitconnected.com/build-a-personal-website-with-github-pages-and-hugo-6c68592204c7 -->
+This blog uses the [Anubis Theme](https://github.com/Mitrichius/hugo-theme-anubis).
+
+Read `content/hugo-guide.md` ([online](https://blog.elijahlopez.ca/hugo-guide#new-machine-setup)) for blogging on a new machine.
