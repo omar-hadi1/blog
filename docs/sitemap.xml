@@ -2,41 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/first-post/</loc>
-    <lastmod>2022-05-08T20:39:52-04:00</lastmod>
+    <loc>/tags/literary-analysis/</loc>
+    <lastmod>2022-05-08T21:45:44-04:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2022-05-08T20:39:52-04:00</lastmod>
+    <lastmod>2022-05-08T21:45:44-04:00</lastmod>
+  </url><url>
+    <loc>/posts/wordsworth/</loc>
+    <lastmod>2022-05-08T21:45:44-04:00</lastmod>
+  </url><url>
+    <loc>/tags/poetry/</loc>
+    <lastmod>2022-05-08T21:45:44-04:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
+    <lastmod>2022-05-08T21:45:44-04:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-05-08T21:45:44-04:00</lastmod>
+  </url><url>
+    <loc>/tags/philosophy/</loc>
+    <lastmod>2022-05-08T20:39:52-04:00</lastmod>
+  </url><url>
+    <loc>/tags/religion/</loc>
+    <lastmod>2022-05-08T20:39:52-04:00</lastmod>
+  </url><url>
+    <loc>/posts/william_james/</loc>
     <lastmod>2022-05-08T20:39:52-04:00</lastmod>
   </url><url>
     <loc>/about/</loc>
     <lastmod>2022-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/git/</loc>
-    <lastmod>2022-05-07T17:57:32-04:00</lastmod>
-  </url><url>
-    <loc>/tags/github-pages/</loc>
-    <lastmod>2022-05-07T17:57:32-04:00</lastmod>
-  </url><url>
-    <loc>/tags/hugo/</loc>
-    <lastmod>2022-05-07T17:57:32-04:00</lastmod>
-  </url><url>
-    <loc>/hugo-guide/</loc>
-    <lastmod>2022-05-07T17:57:32-04:00</lastmod>
-  </url><url>
-    <loc>/tags/markdown/</loc>
-    <lastmod>2022-05-07T17:57:32-04:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-05-07T17:57:32-04:00</lastmod>
-  </url><url>
-    <loc>/tags/tutorial/</loc>
-    <lastmod>2022-05-07T17:57:32-04:00</lastmod>
-  </url><url>
-    <loc>/about/subpage/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
   </url>

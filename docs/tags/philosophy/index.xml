@@ -1,32 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Omar&#39;s blog</title>
-    <link>/</link>
-    <description>Omar&#39;s blog</description>
+    <title>philosophy on Omar&#39;s blog</title>
+    <link>/tags/philosophy/</link>
+    <description>Omar&#39;s blog (philosophy)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 May 2022 21:45:44 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 08 May 2022 20:39:52 -0400</lastBuildDate>
     
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>On Wordsworth and Clare</title>
-      <link>/posts/wordsworth/</link>
-      <pubDate>Sun, 08 May 2022 21:45:44 -0400</pubDate>
-      
-      <guid>/posts/wordsworth/</guid>
-      <description>&lt;p&gt;The poet&amp;rsquo;s relation to nature (pace those who view poetic creation as inspiration that comes from without) is informed, if not overdetermined by historical, social, and cultural contingencies. Both Woodsworth’s and Clare’s poems are marked by an intimacy that can only arise out of a partial identification with the environment they represent. Both poems also evoke feelings of nostalgia and portray the poet as an isolated individual. However, in “I wandered lonely as a cloud”, the poet’s isolation is not to be understood negatively, but is rather the precondition of his union with nature and communal gamboling; his nostalgia is the yearning for an immediate, unmediated experience of nature. The poet’s isolation in “Helpstone” is a form of alienation precipitated by “Accursed wealth” and relations of exploitation — the loss of a once sublime natural landscape is mourned (“Helpstone”, 127).&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;While both “I wandered lonely as a cloud” and “Helpstone” express the interdependence of the constitutive elements of nature, this awareness has a thorough-going political dimension in Clare’s poem, (betraying the poet’s working-class origins) whereas in Woodsworth it retracts into bourgeois idealism. Clare’s “Genius” is encumbered by an economic imperative — “Where bustling Labour drives the hours long” — and one even gets the sense that Clare is referring to himself when he speaks of the “low” Genius’ inability to transcend or “rise” above his “vulgar” material conditions (“Helpstone”, 6). We can contrast this with Woodsworth’s Poet, who, removed from the constraints of labour, “floats on high o’er vales and hills” (“I wandered lonely as a cloud”, 2).There are no moments of ecstasy in Clare’s poem, where one only encounters nature negatively— the village is “Unknown to grandeur” and the Genius is “Unknown nor heeded” (“Helpstone”, 3, 9). Since Labour violently dispossesses and subjugates the Genius, he is barred from any sort of literary recognition— “No minstrel boasting to advance thy name” (“Helpstone”, 4).  Unlike Woodsworth’s Poet, Clare’s identification with the environment does not result in “pleasure” and “glee” (“I wandered lonely as a cloud, 14, 23). Rather, it debases him since the domination of nature cannot be separated from the domination of man, as is evident from Clare’s personifying his village“—And thy mean village lifts its lowly head” (“Helpstone”, 2). The personification of the daffodils in Woodsworth’s poem, on the other hand— “Tossing their heads in a sprightly dance”—  elevates the Poet to a state where he “could not but be gay”(“I wandered lonely as a cloud”, 12, 15).&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;The enclosure of land also results in a bifurcation— Clare can no longer straightforwardly identify with nature because it has been disfigured by “Accursed wealth” (“Helpstone”, 127). Even if such an identification were possible, it would not result in the blissful harmony experienced by Woodsworth’s Poet but rather a “useless Ignorance” that “slumbers life away”(“Helpstone”, 8. This bifurcation does not exist in “I wandered lonely as a cloud”, since the Poet’s identification with nature is not prohibited by a calamitous event such as the enclosure of the commons. While the failure of identification in Helpstone clearly demonstrates Clare’s disapprobation of the effects of a then-nascent capitalism, as well as his ecological consciousness, the Poet’s identification with nature in “I wandered lonely as a cloud” does not have these political overtones. Rather, it serves to fill his heart with pleasure upon experiencing union with nature— he has the privilege of experiencing solitude as “bliss” (“I wandered lonely as a cloud”, 22). Reading Clare’s poem one can only imagine a monochromatic, barren landscape while Woodsworth’s Poet encounters “golden daffodils” and lively trees that are “Fluttering and dancing in the breeze” (“I wandered lonely as a cloud”, 4, 6). There is thus an incredibly pronounced incongruity between a landscape that is teeming with life and one that is corpse-like, hostile to all life-forms.&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;The reader encounters in Clare’s poem a brief description of  “humble Helpstone” prior to this destruction, one which “fond memory clings” to (“Helpstone”, 1, 117).  It is clear that Clare’s memory of this veritable garden of Eden is a part of his identity, such that the physical enclosure of Helpstone is equally an enclosure of his soul. Consequently, this enclosure, that which alienates the labourer resulting in the irretrievable loss of “our labour and bread” (notice how, when referring to the destructive force that dispossesses the labourer Clare uses “thou”and “thine”, using “our” to emphasize the loss, not only of a physical environment, but an entire community) , produces another bifurcation, this time between past and present (“Helpstone”, 132). This discontinuity is so pronounced that there appears to be no possible way to contain the destructive force, or undo its effects by  returning to an idyllic past. It seems that the only thing to do is “bow down” and “clear a way” for the impersonal force ravaging the land (“Helpstone”, 134). Once again, this bifurcation does not exist in “I wandered lonely as a cloud”, where, in complete contrast to “Helpstone”, the joy of the Poet emerges precisely out of the continuity between past and present, as is evidenced by the Poet’s recollection, “ In vacant or in pensive mood/They flash upon that inward eye” (“I wandered lonely as a cloud”, 21-22).  This continuity also allows for the possibility of narrative progress— the Poet is at first “lonely as a cloud”, but is then embraced by “jocund company” (“I wandered lonely as a cloud”, 1, 16). Conversely, in “Helpstone”, the physical enclosure of land terminates historical possibility and consigns the community to oblivion, to a “dark corner of obscurity”; there is no possibility of escape (“Helpstone”, 120).
-While Clare confronts the impermanence of an environment untouched by economic forces, forced to reckon with his loneliness, Woodsworth revels in the infinitude of his cosmic vision of “stars that shine” in a “never-ending line” and is able to overcome his loneliness through union with nature (“I wandered lonely as a cloud”, 7,8).&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Review of Jantzen&#39;s &#39;William James and the varieties of postmodern religious experience&#39;</title>
@@ -53,17 +36,6 @@ While Clare confronts the impermanence of an environment untouched by economic f
 &lt;/span&gt;
 &lt;/h2&gt;&lt;p&gt;Jantzen, Grace M. “William James and the Varieties of Religious Experience.” 2004, &lt;a href=&#34;https://doi.org/10.4324/9780203413135&#34;&gt;https://doi.org/10.4324/9780203413135&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Comay, Rebecca. The Dash&amp;ndash;the Other Side of Absolute Knowing. MIT Press, 2018.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>&lt;p&gt;Hi! Welcome to my blog. What you&amp;rsquo;ll find here are some scattered&amp;ndash; at times incoherent&amp;ndash; thoughts, and essays on certain topics that interest me&amp;ndash;a self-professed misanthrope and dilletante currently in his third year at the University of Toronto studying Literature, Critical Theory, and Religion.&lt;/p&gt;
-&lt;p&gt;My research interests include psychoanalysis, French cultural theory, The Frankfurt School, German Idealism, and Marxist theory.&lt;/p&gt;
 </description>
     </item>
     

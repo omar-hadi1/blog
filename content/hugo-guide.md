@@ -1,14 +1,7 @@
 ---
 title: "Hugo Guide"
 date: 2022-05-07T17:57:32-04:00
-draft: false
-tags: [
-    "tutorial",
-    "hugo",
-    "markdown",
-    "github-pages",
-    "git",
-]
+draft: true
 hidden: false
 ---
 

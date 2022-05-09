@@ -2,10 +2,6 @@
 title: "About"
 description: ""
 date: "2022-05-08"
-aliases:
-  - "about-us"
-  - "about-hugo"
-  - "contact"
 author: "Omar Hadi"
 ---
 
