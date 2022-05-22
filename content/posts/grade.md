@@ -1,5 +1,5 @@
 ---
-title: "Is the Yeshiva obsolete?"
+title: "Is the Yeshiva Obsolete?"
 date: 2022-05-08T22:05:02-04:00
 draft: false
 tags: [

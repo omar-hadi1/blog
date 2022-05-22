@@ -1,5 +1,5 @@
 ---
-title: "Review of Jantzen's 'William James and the varieties of postmodern religious experience'"
+title: "Review of Jantzen's 'William James and the Varieties of Postmodern Religious Experience'"
 date: 2022-05-08T20:39:52-04:00
 draft: false
 tags: [
