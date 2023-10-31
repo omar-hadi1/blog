@@ -1,6 +1,6 @@
 ---
 title: "Is the Yeshiva Obsolete?"
-date: 2022-05-08T22:05:02-04:00
+date: 2023-03-04T22:05:02-04:00
 draft: false
 tags: [
     "religion",
@@ -24,7 +24,6 @@ There is thus a dialectical tension between Chaim’s ‘Yes’ and ‘No’ —
  
 As such, this tension persists between their positions, even though Hersh is unable to, or unwilling to acknowledge it. While refusing to acknowledge the religious significance of Chaim’s position, Hersh does not reject the importance of disputations in the history of Judaism— “For you, who are on the outside, Hasidism and Musar are just two opposing points of view… But actually, they both strengthened Judaism and their dispute is long forgotten” (Grade 29). The irony here is, of course, palpable. Hersh’s denigration of Chaim’s position is aimed precisely at the idea that Chaim trivializes Judaism. Concerning the dispute between Hasidism and Musar he says, “If the rabbis once fought over  Hasidism and Musar it was because they were afraid the new path would draw Jews away from strict observance” (Grade 29). But is Chaim not proposing precisely a “new path”?  It is only by preemptively designating Chaim an “outsider” that Hersh is able to evade his well-founded and provocative questions. He considers him to be an individual who “ran away from being Jewish” disguising his “flight with high-sounding phrases” (Grade 43). 
 
-
 <br>
  
 Chaim, cognizant of the antagonism that has allowed for the development of his own spirituality, is conciliatory rather than dismissive: “As I sat here listening to you, I sometimes thought I was listening to myself” (Grade 47).
@@ -45,4 +44,5 @@ However, this “wholeness” is divided into two disparate parts: “Jewish tra
 <br>
 
 ## Works Cited
+
 Grade, Chaim, and Herbert H. Paper. "My Quarrel with Hersh Rasseyner". 1982. 

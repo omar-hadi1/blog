@@ -1,6 +1,6 @@
 ---
 title: "Fanon and the Politics of Desire"
-date: 2022-05-22T15:11:14-04:00
+date: 2023-02-22T15:11:14-04:00
 draft: false
 tags: [
     "psychoanalysis",

@@ -1,6 +1,6 @@
 ---
 title: "On Wordsworth and Clare"
-date: 2022-05-08T21:45:44-04:00
+date: 2022-09-16T21:45:44-04:00
 draft: false
 tags: [
     "poetry",
@@ -22,4 +22,3 @@ The enclosure of land also results in a bifurcation— Clare can no longer strai
 
 The reader encounters in Clare’s poem a brief description of  “humble Helpstone” prior to this destruction, one which “fond memory clings” to (“Helpstone”, 1, 117).  It is clear that Clare’s memory of this veritable garden of Eden is a part of his identity, such that the physical enclosure of Helpstone is equally an enclosure of his soul. Consequently, this enclosure, that which alienates the labourer resulting in the irretrievable loss of “our labour and bread” (notice how, when referring to the destructive force that dispossesses the labourer Clare uses “thou”and “thine”, using “our” to emphasize the loss, not only of a physical environment, but an entire community) , produces another bifurcation, this time between past and present (“Helpstone”, 132). This discontinuity is so pronounced that there appears to be no possible way to contain the destructive force, or undo its effects by  returning to an idyllic past. It seems that the only thing to do is “bow down” and “clear a way” for the impersonal force ravaging the land (“Helpstone”, 134). Once again, this bifurcation does not exist in “I wandered lonely as a cloud”, where, in complete contrast to “Helpstone”, the joy of the Poet emerges precisely out of the continuity between past and present, as is evidenced by the Poet’s recollection, “ In vacant or in pensive mood/They flash upon that inward eye” (“I wandered lonely as a cloud”, 21-22).  This continuity also allows for the possibility of narrative progress— the Poet is at first “lonely as a cloud”, but is then embraced by “jocund company” (“I wandered lonely as a cloud”, 1, 16). Conversely, in “Helpstone”, the physical enclosure of land terminates historical possibility and consigns the community to oblivion, to a “dark corner of obscurity”; there is no possibility of escape (“Helpstone”, 120). 
 While Clare confronts the impermanence of an environment untouched by economic forces, forced to reckon with his loneliness, Woodsworth revels in the infinitude of his cosmic vision of “stars that shine” in a “never-ending line” and is able to overcome his loneliness through union with nature (“I wandered lonely as a cloud”, 7,8).
-

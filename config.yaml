@@ -35,7 +35,7 @@ menu:
 
 params:
   author: "Omar Hadi"
-  email: ohadi798@gmail.com  # used for microformats
+  email: omar.hadi@mail.utoronto.ca  # used for microformats
   # avatar: "/images/me.png" # used for microformats
   description: ""
   # Uncomment if you need this
@@ -64,12 +64,8 @@ params:
     url: /index.xml
   - id: github
     name: omar-hadi1
-  - id: twitter
-    name: ohadi69
   - id: email
-    name: ohadi798@gmail.com
-  - id: instagram
-    name: omarhadi1
+    name: omar.hadi@mail.utoronto.ca
 
 #  - id: hugo
 #    url: "https://gohugo.io/"
